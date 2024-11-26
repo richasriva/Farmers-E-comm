@@ -43,13 +43,21 @@ Project Structure
 
 Backend/
 ├── app.js               # Entry point of the application
+
 ├── server.js            # Server setup and configuration
+
 ├── config/              # Configuration files (e.g., database, environment variables)
+
 ├── controllers/         # Handles business logic
+
 ├── middleware/          # Custom middleware (e.g., authentication)
+
 ├── models/              # Database schemas and models
+
 ├── routes/              # API routes
+
 └── utils/               # Utility functions and helpers
+
 Installation
 Clone the repository:
 
